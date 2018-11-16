@@ -1,6 +1,6 @@
 /* @flow */
 
-function test(): string {
+function test(): number {
   return 'hi'
 }
 
