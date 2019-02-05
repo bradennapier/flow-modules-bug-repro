@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "flow-bin": "^0.86.0"
+    "flow-bin": "^0.92.1"
   }
 }

@@ -1,0 +1,3 @@
+[options]
+module.system.node.resolve_alias=shared
+module.system.node.resolve_alias=./src
